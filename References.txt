@@ -1,0 +1,7 @@
+References used for this project :
+
+1- ENRON data provided and wrangled by Udacity : www.udacity.com
+2- Sci Kit Learn documentation : http://scikit-learn.org
+3- Udacity forum : www.discussions.udacity.com
+4- Cross-Validated Forum : http://stats.stackexchange.com/
+5- StackOverflow forum : www.stackoverflow.com
